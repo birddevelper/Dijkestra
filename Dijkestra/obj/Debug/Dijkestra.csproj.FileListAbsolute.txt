@@ -1,0 +1,8 @@
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\MaxCut.exe
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\MaxCut.pdb
+D:\Project\C#\Dijkestra\Dijkestra\bin\Debug\MaxCut.exe
+D:\Project\C#\Dijkestra\Dijkestra\bin\Debug\MaxCut.pdb
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\MaxCut.Form1.resources
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\MaxCut.Properties.Resources.resources
+D:\Project\C#\Dijkestra\Dijkestra\obj\Debug\Dijkestra.csproj.GenerateResource.Cache

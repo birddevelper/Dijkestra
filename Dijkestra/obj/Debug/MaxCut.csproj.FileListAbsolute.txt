@@ -1,0 +1,8 @@
+D:\Project\C#\MaxCut\MaxCut\bin\Debug\MaxCut.exe
+D:\Project\C#\MaxCut\MaxCut\bin\Debug\MaxCut.pdb
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\MaxCut.Form1.resources
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\MaxCut.Properties.Resources.resources
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\MaxCut.csproj.GenerateResource.Cache
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\MaxCut.exe
+D:\Project\C#\MaxCut\MaxCut\obj\Debug\MaxCut.pdb
