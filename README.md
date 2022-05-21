@@ -2,7 +2,7 @@
 
 
 
-This app demonestrate the Dijkestra algorithm. It can be used in Algorithms courses to teach shortest path dijkestra algorithm to students.
+This tiny program demonestrates the Dijkestra algorithm. It can be used in Algorithms courses to teach shortest path dijkestra algorithm to students.
 
 The graphical enivronment of this program  allows user to see what is happening during algorithm excution step by step.
 
