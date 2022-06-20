@@ -203,6 +203,7 @@ namespace MaxCut
 
         void path_finder(string node_index)
         {
+             // add found node to list
             lst_Path.Items.Add(node_index);
             if(((node)permlist[(int.Parse(node_index))]).pred!="0")
                 path_finder(((node)permlist[(int.Parse(node_index))]).pred);
